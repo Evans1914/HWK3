@@ -1,0 +1,11 @@
+##Homework 3
+#Basic CLI Commands
+pwd : Prints the current directory path
+touch : Creates a new file
+ls : lists everything in the current folder
+cd : Changes directory
+mkdir : creates a new directory
+rm : Removes files or directories
+git add : add files to the staging area
+git commit : commit the changes with a meaningful message
+git push : Push the changes to the github repository.
